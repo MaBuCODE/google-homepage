@@ -1,0 +1,77 @@
+#logo {
+    display: block;
+    margin: 0 auto;
+    padding: 150px 0 25px 0;
+  }
+  li {
+    float:left;
+    }
+  .header {
+    display: block;
+    padding: 14px 8px;
+    color: #A9A9A9;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style-type: none;
+    overflow:hidden;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  #search-box{
+    text-align: center;
+    }
+  #google-search, #feeling-lucky {
+    margin: 15px;
+    padding: 5px;
+    
+  }
+  
+  input[type=text] {
+    border-width: 1px;
+    border-color: #A9A9A9;
+    border-style: solid;
+    border-radius:20px;
+    width:50%;
+    height:35px;
+    text-indent:45px;
+    background: url(https://daily-grind.net/wp-content/uploads/2010/09/SearchIcon.jpg) no-repeat left;
+    
+      
+  }
+  #location {
+      text-align:left;
+    color: #A9A9A9;
+    background: #D3D3D3;
+    border:2px solid #C0C0C0;
+    margin:-7px;
+    padding:10px 0 10px 30px;
+   
+  }
+  #spacing{
+    padding:230px;
+  }
+  #footer {
+    
+    color: #A9A9A9;
+    background: #D3D3D3;
+    border:2px solid #C0C0C0;
+    margin:-7px;
+    padding:0 0 0 30px;
+    
+    
+  
+  }
+  li a{
+    color: #A9A9A9;
+    display:block;
+    text-decoration:none;
+    list-style:none;
+    padding: 10px 15px 10px 0;
+    
+  }
+  
+  
